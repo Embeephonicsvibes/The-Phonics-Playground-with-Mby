@@ -23,3 +23,12 @@ Open `index.html` in a browser to preview it locally.
 
 ## Expanded website
 Includes course/learning sections, objectives, inclusive support, educational-impact/MDG-aligned focus, booking information, and the supplied Naira and Dollar payment details.
+
+
+## Exact six courses
+- Phonics Lessons
+- Reading Classes
+- Grammar
+- Spelling Lessons
+- Handwriting Lessons
+- SEN Intervention/Therapy
