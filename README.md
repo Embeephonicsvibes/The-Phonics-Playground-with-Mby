@@ -19,3 +19,7 @@ Add a proper form/booking service later if desired, and consider adding:
 Avoid collecting sensitive information about children through a public form.
 
 Open `index.html` in a browser to preview it locally.
+
+
+## Expanded website
+Includes course/learning sections, objectives, inclusive support, educational-impact/MDG-aligned focus, booking information, and the supplied Naira and Dollar payment details.
